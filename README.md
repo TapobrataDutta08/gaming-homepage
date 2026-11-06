@@ -6,7 +6,7 @@ A modern, responsive, and visually striking gaming homepage front-end built usin
 
 Immersive Hero Section: High-impact background, bold typography, and a prominent call-to-action (CTA) button.
 
-Responsive Layout: Fully flexible design using modern CSS Flexbox and Grid, optimized for both desktop and mobile screens.
+Responsive Layout: Fully flexible design using modern CSS Flexbox, optimized for both desktop and mobile screens.
 
 Interactive UI Elements: Hover effects, glowing buttons, and smooth transitions.
 
