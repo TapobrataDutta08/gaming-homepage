@@ -16,7 +16,7 @@ Clean Code Structure: Well-organized semantic HTML and modular CSS stylesheet.
 
 HTML5 (Semantic markup)
 
-CSS3 (Custom properties, Flexbox, Grid, animations)
+CSS3 (Custom properties, Flexbox, Colors Design)
 
 Google Fonts & FontAwesome (Typography and icons)
 
