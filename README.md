@@ -1,30 +1,25 @@
-Gaming Homepage Design 🎮
+# Gaming Homepage Design 🎮
 
 A modern, responsive, and visually striking gaming homepage front-end built using HTML5 and CSS3. Designed with a dark, immersive theme tailored for modern gaming portals, esports landing pages, or game launchers.
 
-🚀 Features
+## 🚀 Features
 
-Immersive Hero Section: High-impact background, bold typography, and a prominent call-to-action (CTA) button.
+* **Immersive Hero Section:** High-impact background, bold typography, and a prominent call-to-action (CTA) button.
+* **Responsive Layout:** Fully flexible design using modern CSS Flexbox, optimized for both desktop and mobile screens.
+* **Interactive UI Elements:** Hover effects, glowing buttons, and smooth transitions.
+* **Clean Code Structure:** Well-organized semantic HTML and modular CSS stylesheet.
 
-Responsive Layout: Fully flexible design using modern CSS Flexbox, optimized for both desktop and mobile screens.
+## 🛠️ Tech Stack
 
-Interactive UI Elements: Hover effects, glowing buttons, and smooth transitions.
+* **HTML5:** Semantic markup
+* **CSS3:** Custom properties, Flexbox, Colors Design
+* **Typography & Icons:** Google Fonts & FontAwesome
 
-Clean Code Structure: Well-organized semantic HTML and modular CSS stylesheet.
+## 📂 Project Structure & Assets
 
-🛠️ Tech Stack
-
-HTML5 (Semantic markup)
-
-CSS3 (Custom properties, Flexbox, Colors Design)
-
-Google Fonts & FontAwesome (Typography and icons)
-
-📂 Project Structure & Assets
-
+```text
 gaming-homepage/
-│
-├── index.html        
+├── index.html
 ├── style.css
 └── assets/
     ├── asus.png
@@ -49,18 +44,18 @@ gaming-homepage/
     ├── Star_1.png
     ├── twitch.png
     └── VRgirl.png
+```
 
+## 📦 Assets Required
 
-📦 Assets Required
+Make sure all the listed image assets are placed inside your `assets/` folder so your CSS background and image paths resolve correctly without breaking.
 
-Make sure all the listed image assets are placed inside your assets/ folder so your CSS background and image paths resolve correctly without breaking.
+## 💻 Getting Started
 
-💻 Getting Started
+1. Open this project folder in Visual Studio Code.
+2. Install the Live Server extension if you haven't already.
+3. Right-click on `index.html` and select **Open with Live Server** to preview your gaming homepage live in your browser.
 
-Open this project folder in Visual Studio Code.
+## Author
 
-Install the Live Server extension if you haven't already.
-
-Right-click on index.html and select Open with Live Server to preview your gaming homepage live in your browser.
-
-Created and maintained by Tapobrata Dutta.
+Created and maintained by **Tapobrata Dutta**.
